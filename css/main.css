@@ -1,0 +1,123 @@
+/*********** FONTS **********/
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Alex Brush', cursive;
+*/
+
+/*********** GRID ***********/
+.full-width {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.content-width {
+	margin: 0 auto;
+	width: 60%;
+}
+
+.half-width {
+	border: 0.05em solid #dedbdc;
+	clear: both;
+	float: left;
+	height: auto;
+	padding: 0.5%;
+	width: 40%;
+}
+
+/*********** BODY ***********/
+body {
+	color: #010813;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+/********** HEADER **********/
+header {
+	background-color: #c8bdbd;
+	background-image: url(../img/image-hero-edits.jpg);
+	background-size: cover;
+	color: #f4f1f0;
+	padding: 0;
+}
+
+header nav {
+	float: right;
+	margin: 1% 0 0;
+}
+
+header nav ul li {
+	align-content: center;
+	display: inline;
+	font-weight: 500;
+	list-style: none;
+	margin: auto;
+	padding: 15% 15% 15% 0;
+	text-transform: uppercase;
+}
+
+header nav ul li a {
+	color: #f4f1f0;
+}
+
+header h1 {
+	clear: both;
+	font-family: 'Alex Brush', cursive;
+	font-size: 14em;
+	font-weight: 100;
+/*	line-height: 0.9em;*/
+	margin: auto;
+	padding: 10% 30%;
+/*	padding: 1% 0 0 11%;*/
+}
+
+header h2 {
+	font-family: 'Alex Brush', cursive;
+	font-size: 9em;
+	font-weight: 100;
+	margin: 0 auto;
+	padding: 0 0 2.5%;
+	text-align: center;
+}
+/*********** MAIN ***********/
+main section a {
+	color: #010813;
+}
+
+/********** FOOTER **********/
+footer {
+	clear: both;
+	padding: 1% 0;
+	text-align: center;
+}
+
+footer h3 {
+	font-family: 'Alex Brush', cursive;
+	font-size: 2.5em;
+	margin: 0;
+}
+
+footer ul {
+	margin: 0 auto;
+	padding: 0;
+}
+
+footer ul li {
+	align-content: center;
+	display: inline;
+	font-size: 2em;
+	list-style: none;
+	margin: auto;
+	padding: 1%;
+}
+
+footer ul li a {
+	color: #010813;
+}
+
+footer p {
+	clear: both;
+	font-size: 0.85em;
+}
