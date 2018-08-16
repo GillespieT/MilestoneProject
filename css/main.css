@@ -72,14 +72,6 @@ header h1 {
 	padding: 10% 30%;
 }
 
-header h2 {
-	font-family: 'Alex Brush', cursive;
-	font-size: 9em;
-	font-weight: 100;
-	margin: 0 auto;
-	padding: 0 0 2.5%;
-	text-align: center;
-}
 /*********** MAIN ***********/
 main section a {
 	color: #010813;
