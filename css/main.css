@@ -44,25 +44,6 @@ header {
 	padding: 0;
 }
 
-header nav {
-	float: right;
-	margin: 1% 0 0;
-}
-
-header nav ul li {
-	align-content: center;
-	display: inline;
-	font-weight: 500;
-	list-style: none;
-	margin: auto;
-	padding: 15% 15% 15% 0;
-	text-transform: uppercase;
-}
-
-header nav ul li a {
-	color: #f4f1f0;
-}
-
 header h1 {
 	clear: both;
 	font-family: 'Alex Brush', cursive;
